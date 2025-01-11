@@ -4,12 +4,12 @@ google/gemini-exp-1206:free
 google/gemini-exp-1121:free
 google/learnlm-1.5-pro-experimental:free
 google/gemini-exp-1114:free
-meta-llama/llama-3.2-3b-instruct:free
 meta-llama/llama-3.2-1b-instruct:free
+meta-llama/llama-3.2-3b-instruct:free
 meta-llama/llama-3.2-90b-vision-instruct:free
 meta-llama/llama-3.2-11b-vision-instruct:free
-google/gemini-flash-1.5-exp
 google/gemini-flash-1.5-8b-exp
+google/gemini-flash-1.5-exp
 google/gemini-pro-1.5-exp
 meta-llama/llama-3.1-405b-instruct:free
 meta-llama/llama-3.1-8b-instruct:free

@@ -11,6 +11,7 @@ meta-llama/llama-3.2-3b-instruct:free
 meta-llama/llama-3.2-1b-instruct:free
 meta-llama/llama-3.2-90b-vision-instruct:free
 meta-llama/llama-3.2-11b-vision-instruct:free
+google/gemini-flash-1.5-exp:free
 google/gemini-flash-1.5-exp
 google/gemini-flash-1.5-8b-exp
 google/gemini-pro-1.5-exp

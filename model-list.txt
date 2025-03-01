@@ -1,3 +1,5 @@
+moonshotai/moonlight-16b-a3b-instruct:free
+nousresearch/deephermes-3-llama-3-8b-preview:free
 cognitivecomputations/dolphin3.0-r1-mistral-24b:free
 cognitivecomputations/dolphin3.0-mistral-24b:free
 google/gemini-2.0-flash-lite-preview-02-05:free
@@ -15,6 +17,7 @@ google/gemini-2.0-flash-exp:free
 google/gemini-exp-1206:free
 meta-llama/llama-3.3-70b-instruct:free
 google/learnlm-1.5-pro-experimental:free
+qwen/qwen-2.5-coder-32b-instruct:free
 nvidia/llama-3.1-nemotron-70b-instruct:free
 meta-llama/llama-3.2-1b-instruct:free
 meta-llama/llama-3.2-11b-vision-instruct:free

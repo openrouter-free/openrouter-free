@@ -19,8 +19,8 @@ meta-llama/llama-3.3-70b-instruct:free
 google/learnlm-1.5-pro-experimental:free
 qwen/qwen-2.5-coder-32b-instruct:free
 nvidia/llama-3.1-nemotron-70b-instruct:free
-meta-llama/llama-3.2-11b-vision-instruct:free
 meta-llama/llama-3.2-1b-instruct:free
+meta-llama/llama-3.2-11b-vision-instruct:free
 google/gemini-flash-1.5-8b-exp
 meta-llama/llama-3.1-8b-instruct:free
 mistralai/mistral-nemo:free

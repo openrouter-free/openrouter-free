@@ -1,3 +1,4 @@
+qwen/qwq-32b:free
 moonshotai/moonlight-16b-a3b-instruct:free
 nousresearch/deephermes-3-llama-3-8b-preview:free
 cognitivecomputations/dolphin3.0-r1-mistral-24b:free

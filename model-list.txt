@@ -1,3 +1,4 @@
+google/gemma-3-27b-it:free
 deepseek/deepseek-r1-zero:free
 qwen/qwq-32b:free
 moonshotai/moonlight-16b-a3b-instruct:free

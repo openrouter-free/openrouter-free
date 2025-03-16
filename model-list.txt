@@ -1,3 +1,5 @@
+open-r1/olympiccoder-7b:free
+open-r1/olympiccoder-32b:free
 google/gemma-3-1b-it:free
 google/gemma-3-4b-it:free
 google/gemma-3-12b-it:free

@@ -1,3 +1,4 @@
+mistralai/mistral-small-3.1-24b-instruct:free
 open-r1/olympiccoder-7b:free
 open-r1/olympiccoder-32b:free
 google/gemma-3-1b-it:free

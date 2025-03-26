@@ -1,3 +1,4 @@
+qwen/qwen2.5-vl-3b-instruct:free
 google/gemini-2.5-pro-exp-03-25:free
 qwen/qwen2.5-vl-32b-instruct:free
 deepseek/deepseek-chat-v3-0324:free
@@ -39,6 +40,7 @@ meta-llama/llama-3.2-1b-instruct:free
 meta-llama/llama-3.2-11b-vision-instruct:free
 qwen/qwen-2.5-72b-instruct:free
 google/gemini-flash-1.5-8b-exp
+qwen/qwen-2.5-vl-7b-instruct:free
 meta-llama/llama-3.1-8b-instruct:free
 mistralai/mistral-nemo:free
 qwen/qwen-2-7b-instruct:free

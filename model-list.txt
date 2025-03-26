@@ -1,5 +1,7 @@
+google/gemini-2.5-pro-exp-03-25:free
 qwen/qwen2.5-vl-32b-instruct:free
 deepseek/deepseek-chat-v3-0324:free
+featherless/qwerky-72b:free
 mistralai/mistral-small-3.1-24b-instruct:free
 open-r1/olympiccoder-7b:free
 open-r1/olympiccoder-32b:free
@@ -27,7 +29,6 @@ sophosympatheia/rogue-rose-103b-v0.2:free
 deepseek/deepseek-chat:free
 google/gemini-2.0-flash-thinking-exp-1219:free
 google/gemini-2.0-flash-exp:free
-google/gemini-exp-1206:free
 meta-llama/llama-3.3-70b-instruct:free
 qwen/qwq-32b-preview:free
 google/learnlm-1.5-pro-experimental:free

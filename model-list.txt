@@ -1,3 +1,5 @@
+meta-llama/llama-4-maverick:free
+meta-llama/llama-4-scout:free
 openrouter/quasar-alpha
 deepseek/deepseek-v3-base:free
 allenai/molmo-7b-d:free

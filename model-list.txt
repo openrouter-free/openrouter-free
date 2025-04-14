@@ -1,3 +1,5 @@
+arliai/qwq-32b-arliai-rpr-v1:free
+agentica-org/deepcoder-14b-preview:free
 moonshotai/kimi-vl-a3b-thinking:free
 openrouter/optimus-alpha
 nvidia/llama-3.1-nemotron-nano-8b-v1:free

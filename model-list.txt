@@ -37,11 +37,9 @@ mistralai/mistral-small-24b-instruct-2501:free
 deepseek/deepseek-r1-distill-qwen-32b:free
 deepseek/deepseek-r1-distill-qwen-14b:free
 deepseek/deepseek-r1-distill-llama-70b:free
-google/gemini-2.0-flash-thinking-exp:free
 deepseek/deepseek-r1:free
 sophosympatheia/rogue-rose-103b-v0.2:free
 deepseek/deepseek-chat:free
-google/gemini-2.0-flash-thinking-exp-1219:free
 google/gemini-2.0-flash-exp:free
 meta-llama/llama-3.3-70b-instruct:free
 qwen/qwq-32b-preview:free

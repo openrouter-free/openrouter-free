@@ -1,3 +1,5 @@
+thudm/glm-z1-9b:free
+thudm/glm-4-9b:free
 microsoft/mai-ds-r1:free
 thudm/glm-z1-32b:free
 thudm/glm-4-32b:free
@@ -15,6 +17,7 @@ allenai/molmo-7b-d:free
 bytedance-research/ui-tars-72b:free
 qwen/qwen2.5-vl-3b-instruct:free
 google/gemini-2.5-pro-exp-03-25:free
+google/gemini-2.5-pro-exp-03-25
 qwen/qwen2.5-vl-32b-instruct:free
 deepseek/deepseek-chat-v3-0324:free
 featherless/qwerky-72b:free

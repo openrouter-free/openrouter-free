@@ -48,9 +48,9 @@ qwen/qwq-32b-preview:free
 google/learnlm-1.5-pro-experimental:free
 qwen/qwen-2.5-coder-32b-instruct:free
 qwen/qwen-2.5-7b-instruct:free
+meta-llama/llama-3.2-3b-instruct:free
 meta-llama/llama-3.2-1b-instruct:free
 meta-llama/llama-3.2-11b-vision-instruct:free
-meta-llama/llama-3.2-3b-instruct:free
 qwen/qwen-2.5-72b-instruct:free
 qwen/qwen-2.5-vl-7b-instruct:free
 google/gemini-flash-1.5-8b-exp

@@ -58,11 +58,11 @@ google/learnlm-1.5-pro-experimental
 qwen/qwen-2.5-coder-32b-instruct
 qwen/qwen-2.5-7b-instruct
 meta-llama/llama-3.2-3b-instruct
-meta-llama/llama-3.2-1b-instruct
 meta-llama/llama-3.2-11b-vision-instruct
+meta-llama/llama-3.2-1b-instruct
 qwen/qwen-2.5-72b-instruct
-qwen/qwen-2.5-vl-7b-instruct
 google/gemini-flash-1.5-8b-exp
+qwen/qwen-2.5-vl-7b-instruct
 meta-llama/llama-3.1-405b
 meta-llama/llama-3.1-8b-instruct
 mistralai/mistral-nemo

@@ -1,3 +1,5 @@
+microsoft/phi-4-reasoning-plus
+microsoft/phi-4-reasoning
 qwen/qwen3-0.6b-04-28
 qwen/qwen3-1.7b
 qwen/qwen3-4b
@@ -61,8 +63,8 @@ meta-llama/llama-3.2-3b-instruct
 meta-llama/llama-3.2-11b-vision-instruct
 meta-llama/llama-3.2-1b-instruct
 qwen/qwen-2.5-72b-instruct
-google/gemini-flash-1.5-8b-exp
 qwen/qwen-2.5-vl-7b-instruct
+google/gemini-flash-1.5-8b-exp
 meta-llama/llama-3.1-405b
 meta-llama/llama-3.1-8b-instruct
 mistralai/mistral-nemo

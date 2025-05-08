@@ -10,6 +10,7 @@ qwen/qwen3-30b-a3b
 qwen/qwen3-8b
 qwen/qwen3-14b
 qwen/qwen3-32b
+qwen/qwen3-235b-a22b
 tngtech/deepseek-r1t-chimera
 thudm/glm-z1-9b
 thudm/glm-4-9b
@@ -69,4 +70,3 @@ meta-llama/llama-3.1-8b-instruct
 mistralai/mistral-nemo
 google/gemma-2-9b-it
 mistralai/mistral-7b-instruct
-huggingfaceh4/zephyr-7b-beta

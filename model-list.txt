@@ -28,7 +28,6 @@ nvidia/llama-3.1-nemotron-ultra-253b-v1
 meta-llama/llama-4-maverick
 meta-llama/llama-4-scout
 deepseek/deepseek-v3-base
-bytedance-research/ui-tars-72b
 qwen/qwen2.5-vl-3b-instruct
 google/gemini-2.5-pro-exp-03-25
 qwen/qwen2.5-vl-32b-instruct
@@ -59,8 +58,8 @@ meta-llama/llama-3.3-70b-instruct
 qwen/qwen-2.5-coder-32b-instruct
 qwen/qwen-2.5-7b-instruct
 meta-llama/llama-3.2-3b-instruct
-meta-llama/llama-3.2-1b-instruct
 meta-llama/llama-3.2-11b-vision-instruct
+meta-llama/llama-3.2-1b-instruct
 qwen/qwen-2.5-72b-instruct
 qwen/qwen-2.5-vl-7b-instruct
 meta-llama/llama-3.1-405b

@@ -1,3 +1,4 @@
+google/gemma-3n-e4b-it
 meta-llama/llama-3.3-8b-instruct
 nousresearch/deephermes-3-mistral-24b-preview
 microsoft/phi-4-reasoning-plus
@@ -58,8 +59,8 @@ meta-llama/llama-3.3-70b-instruct
 qwen/qwen-2.5-coder-32b-instruct
 qwen/qwen-2.5-7b-instruct
 meta-llama/llama-3.2-3b-instruct
-meta-llama/llama-3.2-11b-vision-instruct
 meta-llama/llama-3.2-1b-instruct
+meta-llama/llama-3.2-11b-vision-instruct
 qwen/qwen-2.5-72b-instruct
 qwen/qwen-2.5-vl-7b-instruct
 meta-llama/llama-3.1-405b

@@ -1,3 +1,4 @@
+mistralai/devstral-small
 google/gemma-3n-e4b-it
 meta-llama/llama-3.3-8b-instruct
 nousresearch/deephermes-3-mistral-24b-preview

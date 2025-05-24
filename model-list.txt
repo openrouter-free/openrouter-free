@@ -4,9 +4,6 @@ meta-llama/llama-3.3-8b-instruct
 nousresearch/deephermes-3-mistral-24b-preview
 microsoft/phi-4-reasoning-plus
 microsoft/phi-4-reasoning
-qwen/qwen3-0.6b-04-28
-qwen/qwen3-1.7b
-qwen/qwen3-4b
 opengvlab/internvl3-14b
 opengvlab/internvl3-2b
 deepseek/deepseek-prover-v2
@@ -16,8 +13,6 @@ qwen/qwen3-14b
 qwen/qwen3-32b
 qwen/qwen3-235b-a22b
 tngtech/deepseek-r1t-chimera
-thudm/glm-z1-9b
-thudm/glm-4-9b
 microsoft/mai-ds-r1
 thudm/glm-z1-32b
 thudm/glm-4-32b

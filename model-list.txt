@@ -57,9 +57,9 @@ google/gemini-2.0-flash-exp
 meta-llama/llama-3.3-70b-instruct
 qwen/qwen-2.5-coder-32b-instruct
 qwen/qwen-2.5-7b-instruct
-meta-llama/llama-3.2-11b-vision-instruct
 meta-llama/llama-3.2-3b-instruct
 meta-llama/llama-3.2-1b-instruct
+meta-llama/llama-3.2-11b-vision-instruct
 qwen/qwen-2.5-72b-instruct
 qwen/qwen-2.5-vl-7b-instruct
 meta-llama/llama-3.1-405b

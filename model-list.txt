@@ -5,7 +5,6 @@ sarvamai/sarvam-m
 mistralai/devstral-small
 google/gemma-3n-e4b-it
 meta-llama/llama-3.3-8b-instruct
-nousresearch/deephermes-3-mistral-24b-preview
 microsoft/phi-4-reasoning-plus
 microsoft/phi-4-reasoning
 opengvlab/internvl3-14b
@@ -15,7 +14,6 @@ qwen/qwen3-8b
 qwen/qwen3-14b
 qwen/qwen3-32b
 qwen/qwen3-235b-a22b
-tngtech/deepseek-r1t-chimera
 microsoft/mai-ds-r1
 thudm/glm-z1-32b
 thudm/glm-4-32b
@@ -33,8 +31,6 @@ qwen/qwen2.5-vl-32b-instruct
 deepseek/deepseek-chat-v3-0324
 featherless/qwerky-72b
 mistralai/mistral-small-3.1-24b-instruct
-open-r1/olympiccoder-32b
-google/gemma-3-1b-it
 google/gemma-3-4b-it
 google/gemma-3-12b-it
 rekaai/reka-flash-3
@@ -57,7 +53,6 @@ meta-llama/llama-3.2-3b-instruct
 meta-llama/llama-3.2-1b-instruct
 meta-llama/llama-3.2-11b-vision-instruct
 qwen/qwen-2.5-72b-instruct
-qwen/qwen-2.5-vl-7b-instruct
 meta-llama/llama-3.1-8b-instruct
 mistralai/mistral-nemo
 google/gemma-2-9b-it

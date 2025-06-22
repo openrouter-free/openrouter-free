@@ -1,3 +1,4 @@
+mistralai/mistral-small-3.2-24b-instruct
 moonshotai/kimi-dev-72b
 deepseek/deepseek-r1-0528-qwen3-8b
 deepseek/deepseek-r1-0528
@@ -14,6 +15,7 @@ qwen/qwen3-8b
 qwen/qwen3-14b
 qwen/qwen3-32b
 qwen/qwen3-235b-a22b
+tngtech/deepseek-r1t-chimera
 microsoft/mai-ds-r1
 thudm/glm-z1-32b
 thudm/glm-4-32b

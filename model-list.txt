@@ -6,11 +6,6 @@ deepseek/deepseek-r1-0528
 sarvamai/sarvam-m
 mistralai/devstral-small
 google/gemma-3n-e4b-it
-meta-llama/llama-3.3-8b-instruct
-microsoft/phi-4-reasoning-plus
-microsoft/phi-4-reasoning
-opengvlab/internvl3-14b
-opengvlab/internvl3-2b
 qwen/qwen3-30b-a3b
 qwen/qwen3-8b
 qwen/qwen3-14b
@@ -44,7 +39,6 @@ cognitivecomputations/dolphin3.0-r1-mistral-24b
 cognitivecomputations/dolphin3.0-mistral-24b
 qwen/qwen2.5-vl-72b-instruct
 mistralai/mistral-small-24b-instruct-2501
-deepseek/deepseek-r1-distill-qwen-32b
 deepseek/deepseek-r1-distill-qwen-14b
 deepseek/deepseek-r1-distill-llama-70b
 deepseek/deepseek-r1
@@ -54,7 +48,6 @@ meta-llama/llama-3.3-70b-instruct
 qwen/qwen-2.5-coder-32b-instruct
 meta-llama/llama-3.2-1b-instruct
 meta-llama/llama-3.2-11b-vision-instruct
-meta-llama/llama-3.2-3b-instruct
 qwen/qwen-2.5-72b-instruct
 meta-llama/llama-3.1-8b-instruct
 mistralai/mistral-nemo

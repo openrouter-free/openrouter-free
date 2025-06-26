@@ -46,8 +46,8 @@ deepseek/deepseek-chat
 google/gemini-2.0-flash-exp
 meta-llama/llama-3.3-70b-instruct
 qwen/qwen-2.5-coder-32b-instruct
-meta-llama/llama-3.2-1b-instruct
 meta-llama/llama-3.2-11b-vision-instruct
+meta-llama/llama-3.2-1b-instruct
 qwen/qwen-2.5-72b-instruct
 meta-llama/llama-3.1-8b-instruct
 mistralai/mistral-nemo

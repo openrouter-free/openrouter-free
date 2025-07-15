@@ -24,7 +24,6 @@ shisa-ai/shisa-v2-llama3.3-70b
 arliai/qwq-32b-arliai-rpr-v1
 agentica-org/deepcoder-14b-preview
 moonshotai/kimi-vl-a3b-thinking
-nvidia/llama-3.3-nemotron-super-49b-v1
 nvidia/llama-3.1-nemotron-ultra-253b-v1
 deepseek/deepseek-v3-base
 google/gemini-2.5-pro-exp-03-25

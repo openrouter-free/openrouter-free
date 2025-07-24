@@ -1,3 +1,5 @@
+qwen/qwen3-coder
+qwen/qwen3-235b-a22b-07-25
 moonshotai/kimi-k2
 cognitivecomputations/dolphin-mistral-24b-venice-edition
 google/gemma-3n-e2b-it
@@ -14,7 +16,6 @@ qwen/qwen3-4b
 qwen/qwen3-30b-a3b
 qwen/qwen3-8b
 qwen/qwen3-14b
-qwen/qwen3-32b
 qwen/qwen3-235b-a22b
 tngtech/deepseek-r1t-chimera
 microsoft/mai-ds-r1
@@ -25,7 +26,6 @@ arliai/qwq-32b-arliai-rpr-v1
 agentica-org/deepcoder-14b-preview
 moonshotai/kimi-vl-a3b-thinking
 nvidia/llama-3.1-nemotron-ultra-253b-v1
-deepseek/deepseek-v3-base
 google/gemini-2.5-pro-exp-03-25
 qwen/qwen2.5-vl-32b-instruct
 deepseek/deepseek-chat-v3-0324
@@ -44,7 +44,6 @@ mistralai/mistral-small-24b-instruct-2501
 deepseek/deepseek-r1-distill-qwen-14b
 deepseek/deepseek-r1-distill-llama-70b
 deepseek/deepseek-r1
-deepseek/deepseek-chat
 google/gemini-2.0-flash-exp
 meta-llama/llama-3.3-70b-instruct
 qwen/qwen-2.5-coder-32b-instruct

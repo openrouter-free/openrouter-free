@@ -1,6 +1,5 @@
 openrouter/horizon-beta
 z-ai/glm-4.5-air
-qwen/qwen3-coder
 moonshotai/kimi-k2
 cognitivecomputations/dolphin-mistral-24b-venice-edition
 google/gemma-3n-e2b-it
@@ -21,7 +20,6 @@ qwen/qwen3-235b-a22b
 tngtech/deepseek-r1t-chimera
 microsoft/mai-ds-r1
 thudm/glm-z1-32b
-thudm/glm-4-32b
 shisa-ai/shisa-v2-llama3.3-70b
 arliai/qwq-32b-arliai-rpr-v1
 agentica-org/deepcoder-14b-preview

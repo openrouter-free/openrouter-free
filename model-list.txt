@@ -1,5 +1,6 @@
 openai/gpt-oss-20b
 z-ai/glm-4.5-air
+qwen/qwen3-coder
 moonshotai/kimi-k2
 cognitivecomputations/dolphin-mistral-24b-venice-edition
 google/gemma-3n-e2b-it

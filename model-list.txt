@@ -20,7 +20,6 @@ qwen/qwen3-14b
 qwen/qwen3-235b-a22b
 tngtech/deepseek-r1t-chimera
 microsoft/mai-ds-r1
-thudm/glm-z1-32b
 shisa-ai/shisa-v2-llama3.3-70b
 arliai/qwq-32b-arliai-rpr-v1
 agentica-org/deepcoder-14b-preview
@@ -47,8 +46,8 @@ deepseek/deepseek-r1
 google/gemini-2.0-flash-exp
 meta-llama/llama-3.3-70b-instruct
 qwen/qwen-2.5-coder-32b-instruct
-meta-llama/llama-3.2-11b-vision-instruct
 meta-llama/llama-3.2-3b-instruct
+meta-llama/llama-3.2-11b-vision-instruct
 qwen/qwen-2.5-72b-instruct
 meta-llama/llama-3.1-405b-instruct
 mistralai/mistral-nemo

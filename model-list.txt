@@ -1,3 +1,4 @@
+openai/gpt-oss-20b
 z-ai/glm-4.5-air
 qwen/qwen3-coder
 moonshotai/kimi-k2

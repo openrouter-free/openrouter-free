@@ -13,6 +13,7 @@ deepseek/deepseek-r1-0528
 sarvamai/sarvam-m
 mistralai/devstral-small-2505
 google/gemma-3n-e4b-it
+meta-llama/llama-3.3-8b-instruct
 qwen/qwen3-4b
 qwen/qwen3-30b-a3b
 qwen/qwen3-8b
@@ -25,6 +26,8 @@ arliai/qwq-32b-arliai-rpr-v1
 agentica-org/deepcoder-14b-preview
 moonshotai/kimi-vl-a3b-thinking
 nvidia/llama-3.1-nemotron-ultra-253b-v1
+meta-llama/llama-4-maverick
+meta-llama/llama-4-scout
 google/gemini-2.5-pro-exp-03-25
 qwen/qwen2.5-vl-32b-instruct
 deepseek/deepseek-chat-v3-0324
@@ -46,8 +49,8 @@ deepseek/deepseek-r1
 google/gemini-2.0-flash-exp
 meta-llama/llama-3.3-70b-instruct
 qwen/qwen-2.5-coder-32b-instruct
-meta-llama/llama-3.2-3b-instruct
 meta-llama/llama-3.2-11b-vision-instruct
+meta-llama/llama-3.2-3b-instruct
 qwen/qwen-2.5-72b-instruct
 meta-llama/llama-3.1-405b-instruct
 mistralai/mistral-nemo

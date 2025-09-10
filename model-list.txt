@@ -1,3 +1,4 @@
+nvidia/nemotron-nano-9b-v2
 openrouter/sonoma-dusk-alpha
 openrouter/sonoma-sky-alpha
 deepseek/deepseek-chat-v3.1
@@ -31,7 +32,6 @@ moonshotai/kimi-vl-a3b-thinking
 nvidia/llama-3.1-nemotron-ultra-253b-v1
 meta-llama/llama-4-maverick
 meta-llama/llama-4-scout
-google/gemini-2.5-pro-exp-03-25
 qwen/qwen2.5-vl-32b-instruct
 deepseek/deepseek-chat-v3-0324
 mistralai/mistral-small-3.1-24b-instruct

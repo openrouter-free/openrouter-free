@@ -1,6 +1,5 @@
+x-ai/grok-4-fast
 nvidia/nemotron-nano-9b-v2
-openrouter/sonoma-dusk-alpha
-openrouter/sonoma-sky-alpha
 deepseek/deepseek-chat-v3.1
 openai/gpt-oss-120b
 openai/gpt-oss-20b

@@ -36,7 +36,6 @@ mistralai/mistral-small-3.1-24b-instruct
 google/gemma-3-4b-it
 google/gemma-3-12b-it
 google/gemma-3-27b-it
-qwen/qwq-32b
 nousresearch/deephermes-3-llama-3-8b-preview
 cognitivecomputations/dolphin3.0-r1-mistral-24b
 cognitivecomputations/dolphin3.0-mistral-24b
@@ -49,7 +48,6 @@ meta-llama/llama-3.3-70b-instruct
 qwen/qwen-2.5-coder-32b-instruct
 meta-llama/llama-3.2-3b-instruct
 qwen/qwen-2.5-72b-instruct
-meta-llama/llama-3.1-405b-instruct
 mistralai/mistral-nemo
 google/gemma-2-9b-it
 mistralai/mistral-7b-instruct

@@ -1,4 +1,6 @@
 x-ai/grok-4-fast
+alibaba/tongyi-deepresearch-30b-a3b
+meituan/longcat-flash-chat
 nvidia/nemotron-nano-9b-v2
 deepseek/deepseek-chat-v3.1
 openai/gpt-oss-120b

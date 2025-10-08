@@ -4,7 +4,6 @@ nvidia/nemotron-nano-9b-v2
 deepseek/deepseek-chat-v3.1
 openai/gpt-oss-20b
 z-ai/glm-4.5-air
-z-ai/glm-4.5-air
 qwen/qwen3-coder
 moonshotai/kimi-k2
 cognitivecomputations/dolphin-mistral-24b-venice-edition

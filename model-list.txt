@@ -1,3 +1,4 @@
+inclusionai/ling-1t
 alibaba/tongyi-deepresearch-30b-a3b
 meituan/longcat-flash-chat
 nvidia/nemotron-nano-9b-v2

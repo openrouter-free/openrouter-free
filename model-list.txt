@@ -1,3 +1,4 @@
+minimax/minimax-m2
 openrouter/andromeda-alpha
 alibaba/tongyi-deepresearch-30b-a3b
 meituan/longcat-flash-chat

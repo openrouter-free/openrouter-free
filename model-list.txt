@@ -22,7 +22,6 @@ qwen/qwen3-14b
 qwen/qwen3-235b-a22b
 tngtech/deepseek-r1t-chimera
 microsoft/mai-ds-r1
-shisa-ai/shisa-v2-llama3.3-70b
 arliai/qwq-32b-arliai-rpr-v1
 agentica-org/deepcoder-14b-preview
 meta-llama/llama-4-maverick

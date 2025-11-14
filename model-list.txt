@@ -1,10 +1,10 @@
 kwaipilot/kat-coder-pro
-openrouter/polaris-alpha
 nvidia/nemotron-nano-12b-v2-vl
 alibaba/tongyi-deepresearch-30b-a3b
 meituan/longcat-flash-chat
 nvidia/nemotron-nano-9b-v2
 deepseek/deepseek-chat-v3.1
+openai/gpt-oss-120b
 openai/gpt-oss-20b
 z-ai/glm-4.5-air
 qwen/qwen3-coder

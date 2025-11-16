@@ -1,10 +1,11 @@
+openrouter/sherlock-dash-alpha
+openrouter/sherlock-think-alpha
 kwaipilot/kat-coder-pro
 nvidia/nemotron-nano-12b-v2-vl
 alibaba/tongyi-deepresearch-30b-a3b
 meituan/longcat-flash-chat
 nvidia/nemotron-nano-9b-v2
 deepseek/deepseek-chat-v3.1
-openai/gpt-oss-120b
 openai/gpt-oss-20b
 z-ai/glm-4.5-air
 qwen/qwen3-coder
@@ -16,7 +17,6 @@ mistralai/mistral-small-3.2-24b-instruct
 deepseek/deepseek-r1-0528-qwen3-8b
 deepseek/deepseek-r1-0528
 google/gemma-3n-e4b-it
-meta-llama/llama-3.3-8b-instruct
 qwen/qwen3-4b
 qwen/qwen3-30b-a3b
 qwen/qwen3-14b
@@ -25,8 +25,6 @@ tngtech/deepseek-r1t-chimera
 microsoft/mai-ds-r1
 arliai/qwq-32b-arliai-rpr-v1
 agentica-org/deepcoder-14b-preview
-meta-llama/llama-4-maverick
-meta-llama/llama-4-scout
 qwen/qwen2.5-vl-32b-instruct
 deepseek/deepseek-chat-v3-0324
 mistralai/mistral-small-3.1-24b-instruct

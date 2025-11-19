@@ -5,7 +5,6 @@ nvidia/nemotron-nano-12b-v2-vl
 alibaba/tongyi-deepresearch-30b-a3b
 meituan/longcat-flash-chat
 nvidia/nemotron-nano-9b-v2
-deepseek/deepseek-chat-v3.1
 openai/gpt-oss-20b
 z-ai/glm-4.5-air
 qwen/qwen3-coder
@@ -24,7 +23,6 @@ qwen/qwen3-235b-a22b
 tngtech/deepseek-r1t-chimera
 microsoft/mai-ds-r1
 arliai/qwq-32b-arliai-rpr-v1
-agentica-org/deepcoder-14b-preview
 qwen/qwen2.5-vl-32b-instruct
 deepseek/deepseek-chat-v3-0324
 mistralai/mistral-small-3.1-24b-instruct

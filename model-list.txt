@@ -1,4 +1,4 @@
-x-ai/grok-4.1-fast
+openrouter/bert-nebulon-alpha
 x-ai/grok-4.1-fast
 kwaipilot/kat-coder-pro
 nvidia/nemotron-nano-12b-v2-vl

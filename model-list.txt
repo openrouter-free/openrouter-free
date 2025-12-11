@@ -1,3 +1,8 @@
+mistralai/devstral-2512
+sourceful/riverflow-v2-max-preview
+sourceful/riverflow-v2-standard-preview
+sourceful/riverflow-v2-fast-preview
+nex-agi/deepseek-v3.1-nex-n1
 amazon/nova-2-lite-v1
 arcee-ai/trinity-mini
 tngtech/tng-r1t-chimera

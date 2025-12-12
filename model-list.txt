@@ -10,7 +10,6 @@ allenai/olmo-3-32b-think
 kwaipilot/kat-coder-pro
 nvidia/nemotron-nano-12b-v2-vl
 alibaba/tongyi-deepresearch-30b-a3b
-meituan/longcat-flash-chat
 nvidia/nemotron-nano-9b-v2
 openai/gpt-oss-120b
 openai/gpt-oss-20b
@@ -22,6 +21,7 @@ google/gemma-3n-e2b-it
 tngtech/deepseek-r1t2-chimera
 google/gemma-3n-e4b-it
 qwen/qwen3-4b
+meta-llama/llama-guard-4-12b
 qwen/qwen3-235b-a22b
 tngtech/deepseek-r1t-chimera
 mistralai/mistral-small-3.1-24b-instruct

@@ -21,7 +21,6 @@ google/gemma-3n-e2b-it
 tngtech/deepseek-r1t2-chimera
 google/gemma-3n-e4b-it
 qwen/qwen3-4b
-meta-llama/llama-guard-4-12b
 qwen/qwen3-235b-a22b
 tngtech/deepseek-r1t-chimera
 mistralai/mistral-small-3.1-24b-instruct

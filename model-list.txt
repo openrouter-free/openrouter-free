@@ -1,3 +1,4 @@
+nvidia/nemotron-3-nano-30b-a3b
 mistralai/devstral-2512
 sourceful/riverflow-v2-max-preview
 sourceful/riverflow-v2-standard-preview

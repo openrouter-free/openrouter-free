@@ -1,3 +1,5 @@
+allenai/olmo-3.1-32b-think
+xiaomi/mimo-v2-flash
 nvidia/nemotron-3-nano-30b-a3b
 mistralai/devstral-2512
 sourceful/riverflow-v2-max-preview
@@ -20,6 +22,7 @@ moonshotai/kimi-k2
 cognitivecomputations/dolphin-mistral-24b-venice-edition
 google/gemma-3n-e2b-it
 tngtech/deepseek-r1t2-chimera
+deepseek/deepseek-r1-0528
 google/gemma-3n-e4b-it
 qwen/qwen3-4b
 qwen/qwen3-235b-a22b
@@ -31,5 +34,7 @@ google/gemma-3-27b-it
 google/gemini-2.0-flash-exp
 meta-llama/llama-3.3-70b-instruct
 meta-llama/llama-3.2-3b-instruct
+qwen/qwen-2.5-vl-7b-instruct
 nousresearch/hermes-3-llama-3.1-405b
+meta-llama/llama-3.1-405b-instruct
 mistralai/mistral-7b-instruct

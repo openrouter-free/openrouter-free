@@ -8,7 +8,6 @@ sourceful/riverflow-v2-standard-preview
 sourceful/riverflow-v2-fast-preview
 arcee-ai/trinity-mini
 tngtech/tng-r1t-chimera
-kwaipilot/kat-coder-pro
 nvidia/nemotron-nano-12b-v2-vl
 nvidia/nemotron-nano-9b-v2
 openai/gpt-oss-120b

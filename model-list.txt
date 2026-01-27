@@ -6,7 +6,6 @@ allenai/molmo-2-8b
 bytedance-seed/seedream-4.5
 black-forest-labs/flux.2-max
 nvidia/nemotron-3-nano-30b-a3b
-mistralai/devstral-2512
 sourceful/riverflow-v2-max-preview
 sourceful/riverflow-v2-standard-preview
 sourceful/riverflow-v2-fast-preview

@@ -4,7 +4,6 @@ black-forest-labs/flux.2-klein-4b
 allenai/molmo-2-8b
 bytedance-seed/seedream-4.5
 black-forest-labs/flux.2-max
-xiaomi/mimo-v2-flash
 nvidia/nemotron-3-nano-30b-a3b
 mistralai/devstral-2512
 sourceful/riverflow-v2-max-preview

@@ -1,3 +1,4 @@
+arcee-ai/trinity-large-preview
 upstage/solar-pro-3
 liquid/lfm-2.5-1.2b-thinking
 liquid/lfm-2.5-1.2b-instruct

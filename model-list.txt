@@ -1,3 +1,4 @@
+stepfun/step-3.5-flash
 arcee-ai/trinity-large-preview
 upstage/solar-pro-3
 liquid/lfm-2.5-1.2b-thinking
@@ -21,7 +22,6 @@ openai/gpt-oss-120b
 openai/gpt-oss-20b
 z-ai/glm-4.5-air
 qwen/qwen3-coder
-moonshotai/kimi-k2
 cognitivecomputations/dolphin-mistral-24b-venice-edition
 google/gemma-3n-e2b-it
 tngtech/deepseek-r1t2-chimera

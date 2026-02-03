@@ -1,3 +1,5 @@
+sourceful/riverflow-v2-pro
+sourceful/riverflow-v2-fast
 stepfun/step-3.5-flash
 arcee-ai/trinity-large-preview
 upstage/solar-pro-3

@@ -1,5 +1,4 @@
 openrouter/aurora-alpha
-openrouter/pony-alpha
 sourceful/riverflow-v2-pro
 sourceful/riverflow-v2-fast
 stepfun/step-3.5-flash

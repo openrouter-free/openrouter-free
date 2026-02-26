@@ -1,3 +1,4 @@
+nvidia/llama-nemotron-embed-vl-1b-v2
 sourceful/riverflow-v2-pro
 sourceful/riverflow-v2-fast
 stepfun/step-3.5-flash
@@ -27,7 +28,6 @@ qwen/qwen3-235b-a22b-thinking-2507
 qwen/qwen3-coder
 cognitivecomputations/dolphin-mistral-24b-venice-edition
 google/gemma-3n-e2b-it
-deepseek/deepseek-r1-0528
 google/gemma-3n-e4b-it
 qwen/qwen3-4b
 mistralai/mistral-small-3.1-24b-instruct

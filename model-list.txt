@@ -23,7 +23,6 @@ nvidia/nemotron-nano-9b-v2
 openai/gpt-oss-120b
 openai/gpt-oss-20b
 z-ai/glm-4.5-air
-qwen/qwen3-235b-a22b-thinking-2507
 qwen/qwen3-coder
 cognitivecomputations/dolphin-mistral-24b-venice-edition
 google/gemma-3n-e2b-it

@@ -1,3 +1,4 @@
+nvidia/nemotron-3-super-120b-a12b
 nvidia/llama-nemotron-embed-vl-1b-v2
 sourceful/riverflow-v2-pro
 sourceful/riverflow-v2-fast
@@ -16,8 +17,6 @@ arcee-ai/trinity-mini
 black-forest-labs/flux.2-flex
 black-forest-labs/flux.2-pro
 nvidia/nemotron-nano-12b-v2-vl
-qwen/qwen3-vl-30b-a3b-thinking
-qwen/qwen3-vl-235b-a22b-thinking
 qwen/qwen3-next-80b-a3b-instruct
 nvidia/nemotron-nano-9b-v2
 openai/gpt-oss-120b

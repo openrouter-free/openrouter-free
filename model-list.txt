@@ -1,3 +1,5 @@
+openrouter/hunter-alpha
+openrouter/healer-alpha
 nvidia/nemotron-3-super-120b-a12b
 nvidia/llama-nemotron-embed-vl-1b-v2
 sourceful/riverflow-v2-pro

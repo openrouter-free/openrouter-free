@@ -1,3 +1,4 @@
+alibaba/wan-2.6
 bytedance/seedance-1-5-pro
 openai/sora-2-pro
 google/veo-3.1

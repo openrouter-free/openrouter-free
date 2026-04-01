@@ -11,6 +11,7 @@ minimax/minimax-m2.5
 sourceful/riverflow-v2-pro
 sourceful/riverflow-v2-fast
 stepfun/step-3.5-flash
+arcee-ai/trinity-large-preview
 liquid/lfm-2.5-1.2b-thinking
 liquid/lfm-2.5-1.2b-instruct
 black-forest-labs/flux.2-klein-4b

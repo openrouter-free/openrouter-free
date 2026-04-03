@@ -1,6 +1,6 @@
+qwen/qwen3.6-plus
 google/lyria-3-pro-preview
 google/lyria-3-clip-preview
-qwen/qwen3.6-plus-preview
 alibaba/wan-2.6
 bytedance/seedance-1-5-pro
 openai/sora-2-pro

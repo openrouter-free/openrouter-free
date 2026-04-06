@@ -1,3 +1,6 @@
+cohere/rerank-4-pro
+cohere/rerank-4-fast
+cohere/rerank-v3.5
 qwen/qwen3.6-plus
 google/lyria-3-pro-preview
 google/lyria-3-clip-preview

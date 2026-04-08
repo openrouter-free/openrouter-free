@@ -1,7 +1,8 @@
 cohere/rerank-4-pro
 cohere/rerank-4-fast
 cohere/rerank-v3.5
-qwen/qwen3.6-plus
+google/gemma-4-26b-a4b-it
+google/gemma-4-31b-it
 google/lyria-3-pro-preview
 google/lyria-3-clip-preview
 alibaba/wan-2.6

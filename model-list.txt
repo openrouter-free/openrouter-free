@@ -1,3 +1,7 @@
+bytedance/seedance-2.0-fast
+bytedance/seedance-2.0
+alibaba/wan-2.7
+openrouter/elephant-alpha
 cohere/rerank-4-pro
 cohere/rerank-4-fast
 cohere/rerank-v3.5

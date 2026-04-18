@@ -1,6 +1,6 @@
-bytedance/seedance-2.0
 bytedance/seedance-2.0-fast
 alibaba/wan-2.7
+bytedance/seedance-2.0
 openrouter/elephant-alpha
 cohere/rerank-4-pro
 cohere/rerank-4-fast
@@ -19,6 +19,7 @@ minimax/minimax-m2.5
 sourceful/riverflow-v2-pro
 sourceful/riverflow-v2-fast
 arcee-ai/trinity-large-preview
+moonshotai/kimi-k2.5
 liquid/lfm-2.5-1.2b-thinking
 liquid/lfm-2.5-1.2b-instruct
 black-forest-labs/flux.2-klein-4b
@@ -40,7 +41,6 @@ qwen/qwen3-coder
 cognitivecomputations/dolphin-mistral-24b-venice-edition
 google/gemma-3n-e2b-it
 google/gemma-3n-e4b-it
-meta-llama/llama-guard-4-12b
 google/gemma-3-4b-it
 google/gemma-3-12b-it
 google/gemma-3-27b-it

@@ -1,6 +1,6 @@
-bytedance/seedance-2.0
-bytedance/seedance-2.0-fast
 alibaba/wan-2.7
+bytedance/seedance-2.0-fast
+bytedance/seedance-2.0
 openrouter/elephant-alpha
 cohere/rerank-4-pro
 cohere/rerank-4-fast

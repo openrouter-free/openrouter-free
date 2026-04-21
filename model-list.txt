@@ -1,8 +1,7 @@
 kwaivgi/kling-video-o1
-moonshotai/kimi-k2.6
-alibaba/wan-2.7
-bytedance/seedance-2.0-fast
 bytedance/seedance-2.0
+bytedance/seedance-2.0-fast
+alibaba/wan-2.7
 openrouter/elephant-alpha
 cohere/rerank-4-pro
 cohere/rerank-4-fast

@@ -1,4 +1,6 @@
+tencent/hy3-preview
 inclusionai/ling-2.6-flash
+baidu/qianfan-ocr-fast
 kwaivgi/kling-video-o1
 bytedance/seedance-2.0
 bytedance/seedance-2.0-fast

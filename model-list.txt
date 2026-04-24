@@ -6,9 +6,9 @@ inclusionai/ling-2.6-flash
 baidu/qianfan-ocr-fast
 kwaivgi/kling-video-o1
 minimax/hailuo-2.3
-bytedance/seedance-2.0
-bytedance/seedance-2.0-fast
 alibaba/wan-2.7
+bytedance/seedance-2.0-fast
+bytedance/seedance-2.0
 cohere/rerank-4-pro
 cohere/rerank-4-fast
 cohere/rerank-v3.5

@@ -1,3 +1,5 @@
+google/veo-3.1-fast
+google/veo-3.1-lite
 inclusionai/ling-2.6-1t
 tencent/hy3-preview
 inclusionai/ling-2.6-flash

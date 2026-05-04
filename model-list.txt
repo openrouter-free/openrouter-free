@@ -4,7 +4,6 @@ openrouter/owl-alpha
 nvidia/nemotron-3-nano-omni-30b-a3b-reasoning
 poolside/laguna-xs.2
 poolside/laguna-m.1
-deepseek/deepseek-v4-pro
 google/veo-3.1-fast
 google/veo-3.1-lite
 inclusionai/ling-2.6-1t

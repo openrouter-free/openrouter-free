@@ -1,3 +1,4 @@
+baidu/cobuddy
 kwaivgi/kling-v3.0-pro
 kwaivgi/kling-v3.0-std
 openrouter/owl-alpha

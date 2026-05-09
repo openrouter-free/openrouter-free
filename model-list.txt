@@ -11,13 +11,12 @@ poolside/laguna-xs.2
 poolside/laguna-m.1
 google/veo-3.1-fast
 google/veo-3.1-lite
-tencent/hy3-preview
 baidu/qianfan-ocr-fast
 kwaivgi/kling-video-o1
 minimax/hailuo-2.3
-alibaba/wan-2.7
 bytedance/seedance-2.0
 bytedance/seedance-2.0-fast
+alibaba/wan-2.7
 cohere/rerank-4-pro
 cohere/rerank-4-fast
 cohere/rerank-v3.5

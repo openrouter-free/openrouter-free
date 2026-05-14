@@ -1,3 +1,11 @@
+recraft/recraft-v4.1-pro-vector
+recraft/recraft-v4.1-vector
+recraft/recraft-v4.1-utility-pro
+recraft/recraft-v4.1-utility
+recraft/recraft-v4.1-pro
+recraft/recraft-v4.1
+recraft/recraft-v4-pro-vector
+recraft/recraft-v4-vector
 inclusionai/ring-2.6-1t
 recraft/recraft-v4-pro
 recraft/recraft-v4
@@ -9,9 +17,9 @@ openrouter/owl-alpha
 nvidia/nemotron-3-nano-omni-30b-a3b-reasoning
 poolside/laguna-xs.2
 poolside/laguna-m.1
+deepseek/deepseek-v4-flash
 google/veo-3.1-fast
 google/veo-3.1-lite
-baidu/qianfan-ocr-fast
 kwaivgi/kling-video-o1
 minimax/hailuo-2.3
 bytedance/seedance-2.0-fast

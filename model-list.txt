@@ -6,7 +6,6 @@ recraft/recraft-v4.1-pro
 recraft/recraft-v4.1
 recraft/recraft-v4-pro-vector
 recraft/recraft-v4-vector
-inclusionai/ring-2.6-1t
 recraft/recraft-v4-pro
 recraft/recraft-v4
 recraft/recraft-v3
@@ -22,8 +21,8 @@ google/veo-3.1-fast
 google/veo-3.1-lite
 kwaivgi/kling-video-o1
 minimax/hailuo-2.3
-bytedance/seedance-2.0-fast
 alibaba/wan-2.7
+bytedance/seedance-2.0-fast
 bytedance/seedance-2.0
 cohere/rerank-4-pro
 cohere/rerank-4-fast

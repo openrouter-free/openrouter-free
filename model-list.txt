@@ -1,3 +1,5 @@
+x-ai/grok-imagine-video
+x-ai/grok-imagine-image-quality
 recraft/recraft-v4.1-pro-vector
 recraft/recraft-v4.1-vector
 recraft/recraft-v4.1-utility-pro
@@ -21,9 +23,9 @@ google/veo-3.1-fast
 google/veo-3.1-lite
 kwaivgi/kling-video-o1
 minimax/hailuo-2.3
-alibaba/wan-2.7
-bytedance/seedance-2.0-fast
 bytedance/seedance-2.0
+bytedance/seedance-2.0-fast
+alibaba/wan-2.7
 cohere/rerank-4-pro
 cohere/rerank-4-fast
 cohere/rerank-v3.5

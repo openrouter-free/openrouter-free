@@ -23,9 +23,9 @@ google/veo-3.1-fast
 google/veo-3.1-lite
 kwaivgi/kling-video-o1
 minimax/hailuo-2.3
+alibaba/wan-2.7
 bytedance/seedance-2.0
 bytedance/seedance-2.0-fast
-alibaba/wan-2.7
 z-ai/glm-5.1
 cohere/rerank-4-pro
 cohere/rerank-4-fast

@@ -26,7 +26,6 @@ minimax/hailuo-2.3
 alibaba/wan-2.7
 bytedance/seedance-2.0
 bytedance/seedance-2.0-fast
-z-ai/glm-5.1
 cohere/rerank-4-pro
 cohere/rerank-4-fast
 cohere/rerank-v3.5

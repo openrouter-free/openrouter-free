@@ -31,7 +31,6 @@ cohere/rerank-4-fast
 cohere/rerank-v3.5
 google/gemma-4-26b-a4b-it
 google/gemma-4-31b-it
-arcee-ai/trinity-large-thinking
 google/lyria-3-pro-preview
 google/lyria-3-clip-preview
 alibaba/wan-2.6

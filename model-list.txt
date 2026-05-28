@@ -11,7 +11,6 @@ recraft/recraft-v4-vector
 recraft/recraft-v4-pro
 recraft/recraft-v4
 recraft/recraft-v3
-baidu/cobuddy
 kwaivgi/kling-v3.0-pro
 kwaivgi/kling-v3.0-std
 openrouter/owl-alpha
@@ -23,8 +22,9 @@ google/veo-3.1-fast
 google/veo-3.1-lite
 kwaivgi/kling-video-o1
 minimax/hailuo-2.3
-bytedance/seedance-2.0-fast
+moonshotai/kimi-k2.6
 bytedance/seedance-2.0
+bytedance/seedance-2.0-fast
 alibaba/wan-2.7
 cohere/rerank-4-pro
 cohere/rerank-4-fast

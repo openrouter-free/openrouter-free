@@ -1,3 +1,5 @@
+sourceful/riverflow-v2.5-pro
+sourceful/riverflow-v2.5-fast
 nvidia/nemotron-3.5-content-safety
 nvidia/nemotron-3-ultra-550b-a55b
 x-ai/grok-imagine-video
